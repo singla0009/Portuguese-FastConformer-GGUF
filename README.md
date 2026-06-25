@@ -2,13 +2,17 @@
 
 Welcome to the GitHub homepage for the highly optimized **GGUF** (float32) conversion of the `nvidia/stt_pt_fastconformer_hybrid_large_pc` model. This is a FastConformer Automatic Speech Recognition (ASR) model specifically trained for **Portuguese (pt)** speech-to-text, featuring native support for punctuation and capitalization (P&C).
 
-🚀 **[DOWNLOAD THE MODEL FROM HUGGING FACE HERE](https://huggingface.co/Singla0009/Portuguese-FastConformer-GGUF)** 🚀
+**[Download the Model from Hugging Face Here](https://huggingface.co/Singla0009/Portuguese-FastConformer-GGUF)**
 
 ---
 
-⚡ **Powered by CAPIT** ⚡  
-These highly-optimized `.gguf` models were explicitly designed and converted to be used seamlessly with **CAPIT**, our blazing-fast, privacy-first desktop transcription application. CAPIT is a state-of-the-art Rust & Tauri native app built by our team that lets you run these massive AI models entirely offline on your local machine with an incredible user interface.  
-👉 **[Check out the CAPIT App on our GitHub!](https://github.com/singla0009)**
+### 💻 Integrates perfectly with CAPIT
+This model was explicitly converted and optimized to be run inside **CAPIT**—our custom desktop transcription software. 
+
+**What is CAPIT?**
+CAPIT is a fully offline, high-speed transcription application. It is built using Rust and Tauri, meaning it is incredibly lightweight, fast, and 100% private (no audio is ever sent to the cloud). Instead of writing python code or using terminal commands, you can simply load this model into the CAPIT desktop app and transcribe audio instantly with a beautiful user interface.
+
+**[Check out the CAPIT Desktop App Here!](https://github.com/singla0009)**
 
 ---
 
